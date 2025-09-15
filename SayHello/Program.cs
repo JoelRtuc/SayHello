@@ -8,6 +8,7 @@
         void SayHello(string name)
         {
             Console.WriteLine("Hej " + name + " välkommen till programmet!");
+
         }
     }
 }
